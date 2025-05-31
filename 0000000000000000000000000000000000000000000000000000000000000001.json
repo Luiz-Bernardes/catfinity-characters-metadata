@@ -1,0 +1,7 @@
+{
+  "name": "Cat #1",
+  "image": "https://luiz-bernardes.github.io/catfinity-characters-metadata/images/cat1.png",
+  "attributes": [
+    { "trait_type": "Rarity", "value": "SR" },
+  ]
+}
