@@ -1,7 +1,8 @@
 {
   "name": "Cat #3",
+  "description": "One of the brave adventurers of Catfinity Tower.",
   "image": "https://luiz-bernardes.github.io/catfinity-characters-metadata/images/cat3.png",
   "attributes": [
-    { "trait_type": "Rarity", "value": "SR" },
+    { "trait_type": "Rarity", "value": "SR" }
   ]
 }
