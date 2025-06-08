@@ -1,0 +1,8 @@
+{
+  "name": "Cat #8",
+  "description": "One of the brave adventurers of Catfinity Tower.",
+  "image": "https://luiz-bernardes.github.io/catfinity-characters-metadata/images/cat8.png",
+  "attributes": [
+    { "trait_type": "Rarity", "value": "E" }
+  ]
+}
